@@ -1,5 +1,5 @@
 /* Global Variables */
-const apiKey = "&appid=11e35a02a6ac0e4b1920adae85b5387e";
+const apiKey = "&your-api-key-here";
 const baseURL = "https://api.openweathermap.org/data/2.5/weather?zip=";
 
 // Create a new date instance dynamically with JS
