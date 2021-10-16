@@ -1,4 +1,4 @@
-const apiKey = "&appid=11e35a02a6ac0e4b1920adae85b5387e";
+const apiKey = "&your-api-key-here";
 const baseURL = "https://api.openweathermap.org/data/2.5/weather?zip=";
 // Setup empty JS object to act as endpoint for all routes
 // It should include all data..
